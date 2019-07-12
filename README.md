@@ -1,4 +1,6 @@
-![Logo](./Images/vandilogo.png)
+
+<img width="200" src="./Images/vandilogo.png" alt="Logo" title="PlayVandi Logo"><br>
+
 # PlayVandi 어플리케이션 사용 메뉴얼
 
 이 컨텐츠는 PlayVandi 앱 사용자의 편의를 위해 제작된 설명서입니다.
