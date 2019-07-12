@@ -32,17 +32,8 @@
 ***
 ### 2.자동방제
 * [턴 어시스트](Auto/TurnAssist/턴어시스트.md)
-* [AB 방제](Auto/AB/AB방제란.md)
-    * [AB방제 A](Auto/AB/AB-A.md)
-    * [AB방제 B](Auto/AB/AB-B.md)
-    * [AB방제 롤백](Auto/AB/AB롤백.md)
-    * [AB방제 방제경로 전송](Auto/AB/AB방제경로전송.md)
-    * [AB방제 시작](Auto/AB/AB방제시작.md)
-
-* [이어방제](Auto/ProceedCD/이어방제란.md)
-    * [자동방제가 중단되면?](Auto/ProceedCD/자동방제가중단되면.md)
-    * [이어방제 시작](Auto/ProceedCD/이어방제시작.md)
-
+* [AB 방제](Auto/AB/AB방제.md)
+* [이어방제](Auto/ProceedCD/이어방제.md)
 
 <!-- 이미지 삽입코드
 <img width="400" src="./Images/turnassist1.png"><br>

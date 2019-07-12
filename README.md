@@ -1,11 +1,9 @@
 
 <img width="200" src="./Images/vandilogo.png"><br>
 
-# PlayVandi 어플리케이션 사용 메뉴얼
+# 이 컨텐츠는 PlayVandi 앱 사용자의 편의를 위해 제작된 설명서입니다.
 
 ## ※ 이 컨텐츠는 Internet Explore를 지원하지 않습니다. Chrome, Firefox 등의 브라우저를 사용해 주십시오 ※
-
-이 컨텐츠는 PlayVandi 앱 사용자의 편의를 위해 제작된 설명서입니다.
 
 #
 
