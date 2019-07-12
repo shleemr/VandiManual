@@ -3,13 +3,12 @@
 * [PlayVandi 메뉴얼](README.md)
 
 ***
-### 1.네트워크 연결
-* [연결 방식의 차이](Network/연결방식의차이.md)
-    * [네트워크 연결 방식의 차이](Network/네트워크연결방식차이.md)
-    * [앱이 설치된 단말기를 바로 기체와 연결하기](Network/단말기바로기체연결.md)
-    * [중계 단말기를 통하여 기체에 연결하기](Network/중계단말기를통해연결.md)
-* [네트워크 이름, 비밀번호 변경하기](Network/네트워크이름비번변경.md)
+### 1.연결하기
+* [반디앱이 설치된 단말기를 기체와 연결하기](Network/단말기바로기체연결.md)
+* [중계 단말기를 통하여 기체에 연결하기](Network/중계단말기를통해연결.md)
+<!-- * [네트워크 이름, 비밀번호 변경하기](Network/네트워크이름비번변경.md) -->
 
+<!--
 ***
 ### 2.기능
 * [앱 시작하기](Functions/앱시작하기.md)
@@ -28,9 +27,10 @@
 * [리턴 투 홈 (Return to home)](Functions/리턴투홈.md)
 * [기체 착륙하기](Functions/기체착륙하기.md)
 * [착륙 후 모터가동 해제하기](Functions/착륙후모터가동해제.md)
+-->
 
 ***
-### 3.자동방제
+### 2.자동방제
 * [턴 어시스트 (Turn assist)](Auto/턴어시스트.md)
 * [AB 방제란?](Auto/AB/AB방제란.md)
     * [AB방제 A](Auto/AB/AB-A.md)
@@ -42,3 +42,8 @@
 * [이어방제란?](Auto/ProceedCD/이어방제란.md)
     * [자동방제가 중단되면?](Auto/ProceedCD/자동방제가중단되면.md)
     * [이어방제 시작](Auto/ProceedCD/이어방제시작.md)
+
+
+<!-- 이미지 삽입코드
+<img width="400" src="./Images/turnassist1.png"><br>
+-->
