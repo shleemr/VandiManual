@@ -31,7 +31,7 @@
 
 ***
 ### 2.자동방제
-* [턴 어시스트 (Turn assist)](Auto/턴어시스트.md)
+* [턴 어시스트 (Turn assist)](Auto/TurnAssist/턴어시스트.md)
 * [AB 방제란?](Auto/AB/AB방제란.md)
     * [AB방제 A](Auto/AB/AB-A.md)
     * [AB방제 B](Auto/AB/AB-B.md)
