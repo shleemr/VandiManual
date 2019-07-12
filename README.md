@@ -1,5 +1,5 @@
 
-<img width="200" src="./Images/vandilogo.png" alt="Logo" title="PlayVandi Logo"><br>
+<img width="200" src="./Images/vandilogo.png"><br>
 
 # PlayVandi 어플리케이션 사용 메뉴얼
 
