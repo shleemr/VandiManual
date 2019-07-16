@@ -1,11 +1,13 @@
 
 # <div align="center"><img width="200" src="./Images/metalogo.jpg"></div>
 
-##### <p align="center">이 컨텐츠는 PlayVandi 앱 사용자의 편의를 위해 제작된 설명서입니다.</p>
+##### 이 컨텐츠는 PlayVandi 앱 사용자의 편의를 위해 제작된 설명서입니다.
 
 <br>
 
-# <a href="https://www.youtube.com/watch?v=_YkFJXDrei8"><img width="40" src="./Images/vandilogo.png"></a>[반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8)
+<!-- <img width="40" src="./Images/vandilogo.png"> -->
+<a href="https://www.youtube.com/watch?v=_YkFJXDrei8"><img width="40" src="./Images/vandilogo.png"></a>
+[반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8)
 
 <br>
 
