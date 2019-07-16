@@ -18,7 +18,12 @@ PlayVandi 소개영상<br>
 <br>
 
 Default: Width=480 Hight=270  
-[!embed](https://www.youtube.com/watch?v=vq2jYFZVMDA)
+https://www.youtube.com/watch?v=vq2jYFZVMDA
+
+<br>
+
+{% youtube src="https://www.youtube.com/watch?v=vq2jYFZVMDA" %}{% endyoutube %}
+
 
 <br>
 
