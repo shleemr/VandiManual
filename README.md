@@ -12,8 +12,7 @@
 
 <!-- # [반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8) -->
 <!-- https://youtu.be/_YkFJXDrei8?t=4 -->
-PlayVandi 소개영상
-<br>
+PlayVandi 소개영상  
 {% youtube src="https://www.youtube.com/watch?v=_YkFJXDrei8" %}{% endyoutube %}
 <br>
 
