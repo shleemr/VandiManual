@@ -12,19 +12,9 @@
 
 <!-- # [반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8) -->
 <!-- https://youtu.be/_YkFJXDrei8?t=4 -->
-PlayVandi 소개영상<br>
-[![반디소개영상](http://img.youtube.com/vi/_YkFJXDrei8/0.jpg)](https://www.youtube.com/watch?v=_YkFJXDrei8) 
-
+PlayVandi 소개영상
 <br>
-
-Default: Width=480 Hight=270  
-https://www.youtube.com/watch?v=vq2jYFZVMDA
-
-<br>
-
 {% youtube src="https://www.youtube.com/watch?v=_YkFJXDrei8" %}{% endyoutube %}
-
-
 <br>
 
 ### ※ 이 컨텐츠는 Internet Explore를 지원하지 않습니다. Chrome, Edge, Firefox 등의 브라우저를 사용해 주십시오
