@@ -17,16 +17,8 @@ PlayVandi 소개영상<br>
 
 <br>
 
-PlayVandi 소개영상<br>
-[![반디소개영상](https://youtu.be/_YkFJXDrei8?t=4)](https://www.youtube.com/watch?v=_YkFJXDrei8) 
-
-<br>
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/_YkFJXDrei8" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+Default: Width=480 Hight=270  
+[!embed](https://www.youtube.com/watch?v=vq2jYFZVMDA)
 
 <br>
 
