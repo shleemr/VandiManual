@@ -6,8 +6,8 @@
 <br>
 
 <!-- <img width="40" src="./Images/vandilogo.png"> -->
-<a href="https://www.youtube.com/watch?v=_YkFJXDrei8"><img width="40" src="./Images/vandilogo.png"></a>
-[반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8)
+<img width="100" src="./Images/vandilogo.png"> <br>
+# [반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8)
 
 <br>
 
