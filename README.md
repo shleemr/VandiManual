@@ -17,4 +17,12 @@ PlayVandi 소개영상<br>
 
 <br>
 
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=_YkFJXDrei8" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+<br>
+
 ### ※ 이 컨텐츠는 Internet Explore를 지원하지 않습니다. Chrome, Edge, Firefox 등의 브라우저를 사용해 주십시오 ※
