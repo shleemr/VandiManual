@@ -13,7 +13,7 @@
 <!-- # [반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8) -->
 <!-- https://youtu.be/_YkFJXDrei8?t=4 -->
 PlayVandi 소개영상<br>
-[![반디소개영상](http://img.youtube.com/vi/_YkFJXDrei8/0.jpg)](https://youtu.be/_YkFJXDrei8?t=4) 
+[![반디소개영상](https://youtu.be/_YkFJXDrei8?t=4)](https://youtu.be/_YkFJXDrei8?t=4) 
 
 <br>
 
