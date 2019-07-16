@@ -9,11 +9,10 @@
 
 <!-- <img width="40" src="./Images/vandilogo.png"> -->
 <img width="100" src="./Images/vandilogo.png"> <br>
-# [반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8)
 
-[![반대소개영상](https://www.youtube.com/watch?v=_YkFJXDrei8/maxresdefault.jpg)](https://www.youtube.com/watch?v=_YkFJXDrei8=0s)
-<br>
-[![Video Label](http://img.youtube.com/vi/_YkFJXDrei8/0.jpg)](https://youtu.be/_YkFJXDrei8?t=0s) 
+<!-- # [반디소개영상보기](https://www.youtube.com/watch?v=_YkFJXDrei8) -->
+
+[![반디소개영상](http://img.youtube.com/vi/_YkFJXDrei8/0.jpg)](https://youtu.be/_YkFJXDrei8?t=0s) 
 
 
 <br>
