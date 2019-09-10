@@ -12,4 +12,4 @@
 
 ### ※ 이 컨텐츠는 Internet Explore를 지원하지 않습니다. Chrome, Edge, Firefox 등의 브라우저를 사용해 주십시오
 
-[https://metarobotics.gitbook.io/vandimanual/](Vandi 메뉴얼 페이지)
+[Vandi 메뉴얼 페이지](https://metarobotics.gitbook.io/vandimanual/)
