@@ -10,6 +10,7 @@
 <p align="center">PlayVandi 소개영상</p> 
 <br>
 
+자동방제영상
 <iframe frameborder="0" width="640" height="480" src="https://drive.google.com/open?id=1NDwifr1x1wg3_2f6UergjWIqUpZOKLB_" allowfullscreen="true" allow="autoplay"></iframe>
 <br>
 
