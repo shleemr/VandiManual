@@ -10,10 +10,6 @@
 <p align="center">PlayVandi 소개영상</p> 
 <br>
 
-자동방제영상
-<iframe frameborder="0" width="640" height="480" src="https://drive.google.com/open?id=1NDwifr1x1wg3_2f6UergjWIqUpZOKLB_" allowfullscreen="true" allow="autoplay"></iframe>
-<br>
-
 ### ※ 이 컨텐츠는 Internet Explore를 지원하지 않습니다. Chrome, Edge, Firefox 등의 브라우저를 사용해 주십시오
 
 Vandi 메뉴얼 페이지  
