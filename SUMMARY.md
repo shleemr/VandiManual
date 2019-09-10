@@ -34,7 +34,6 @@
 * [턴 어시스트](Auto/TurnAssist/턴어시스트.md)
 * [AB 방제](Auto/AB/AB방제.md)
 * [이어방제](Auto/ProceedCD/이어방제.md)
-* [자동방제영상](Auto/AB/ABAutoTerrainFollowing.md)
 
 <!-- 이미지 삽입코드
 <img width="400" src="./Images/turnassist1.png"><br>
